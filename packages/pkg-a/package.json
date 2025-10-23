@@ -1,0 +1,60 @@
+{
+  "name": "pkg-a",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "pkg-a",
+  "author": "Louis Mazel <me@loicmazuel.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisMazel/test-changelogen.git"
+  },
+  "bugs": "https://github.com/LouisMazel/test-changelogen/issues",
+  "keywords": [
+    "node",
+    "utilities",
+    "changelog"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "build": "unbuild",
+    "dev": "unbuild --stub",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "lint": "cross-env NODE_ENV=production eslint .",
+    "lint:fix": "pnpm lint --fix",
+    "test": "tsx test.ts"
+  },
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "consola": "^3.4.2",
+    "figlet": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "unbuild": "^3.6.1"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,mjs,mts,cjs,md,yml,json}": [
+      "eslint --fix"
+    ]
+  }
+}

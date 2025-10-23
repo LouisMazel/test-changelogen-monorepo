@@ -1,0 +1,24 @@
+{
+  "name": "test-changelogen-monorepo",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3",
+  "scripts": {
+    "clm:bump:alpha": "clm bump --prerelease --preid alpha --dry-run",
+    "clm:bump:beta": "clm bump --prerelease --preid beta --dry-run",
+    "clm:bump": "clm bump --dry-run",
+    "lerna:version": "lerna version --conventional-commits",
+    "lerna:version:alpha": "lerna version --conventional-commits --conventional-prerelease --preid alpha",
+    "lerna:version:beta": "lerna version --conventional-commits --conventional-prerelease --preid beta",
+    "lerna:version:beta:local": "lerna version --conventional-commits --conventional-prerelease --preid beta",
+    "lerna:version:graduate": "lerna version --conventional-commits --conventional-graduate",
+    "lerna:version:graduate:local": "lerna version --conventional-commits --conventional-graduate --yes false"
+  },
+  "devDependencies": {
+    "@maz-ui/changelogen-monorepo": "./../maz-ui/packages/changelogen-monorepo",
+    "lerna": "^9.0.0"
+  }
+}
