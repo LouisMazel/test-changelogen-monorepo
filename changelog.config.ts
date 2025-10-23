@@ -30,10 +30,10 @@ export default defineConfig({
     filterCommits: true,
   },
 
-  changelog: {
-    formatCmd: 'pnpm lint:fix:all',
-    rootChangelog: false,
+  release: {
+    publish: false,
   },
+
   publish: {
     registry: 'https://registry.npmjs.org',
   },

@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "version": "independent",
+  "version": "0.0.0",
   "npmClient": "pnpm",
   "packages": [
     "packages/*",
@@ -14,7 +14,7 @@
       ],
       "conventionalCommits": true,
       "changelogPreset": "./.conventional-changelog-preset.js",
-      "message": "chore(release): version packages %v",
+      "message": "chore(release): bump to %v",
       "tagVersionPrefix": "v",
       "push": false,
       "exact": true,
@@ -24,7 +24,7 @@
     },
     "publish": {
       "conventionalCommits": true,
-      "message": "chore(release): publish packages %v",
+      "message": "chore(release): publish %v",
       "registry": "https://registry.npmjs.org/",
       "yes": false
     }
