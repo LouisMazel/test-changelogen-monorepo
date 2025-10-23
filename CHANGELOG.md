@@ -1,5 +1,18 @@
 # Changelog
 
+## pkg-a@0.3.5...v0.3.5
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.3.5...v0.3.5)
+
+### 💅 Refactors
+
+- Modify package b ([28f10b2](https://github.com/LouisMazel/test-changelogen-monorepo/commit/28f10b2))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+
 ## v0.3.5...v0.3.5
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.3.5...v0.3.5)
