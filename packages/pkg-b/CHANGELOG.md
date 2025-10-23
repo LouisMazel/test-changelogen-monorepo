@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.0.0...v0.0.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.0.0...v0.0.0)
+
+No relevant changes since last release
+
+
 ## v4.2.1-alpha.16...v4.2.1-beta.0
 
 [compare changes](https://github.com/LouisMazel/maz-ui/compare/v4.2.1-alpha.16...v4.2.1-beta.0)

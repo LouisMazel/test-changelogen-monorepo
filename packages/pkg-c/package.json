@@ -1,8 +1,8 @@
 {
-  "name": "pkg-a",
+  "name": "pkg-c",
   "type": "module",
   "version": "0.0.1",
-  "description": "pkg-a",
+  "description": "pkg-c",
   "author": "Louis Mazel <me@loicmazuel.com>",
   "license": "MIT",
   "repository": {
@@ -46,7 +46,8 @@
   "dependencies": {
     "colorette": "^2.0.20",
     "consola": "^3.4.2",
-    "figlet": "^1.9.3"
+    "figlet": "^1.9.3",
+    "pkg-b": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^24.9.1",
