@@ -1,7 +1,7 @@
 {
   "name": "pkg-a",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "description": "pkg-a",
   "author": "Louis Mazel <me@loicmazuel.com>",
   "license": "MIT",
