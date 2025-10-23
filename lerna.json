@@ -16,7 +16,7 @@
       "changelogPreset": "./.conventional-changelog-preset.js",
       "message": "chore(release): bump to %v",
       "tagVersionPrefix": "v",
-      "push": true,
+      "push": false,
       "exact": true,
       "yes": false,
       "gitTagVersion": true,
