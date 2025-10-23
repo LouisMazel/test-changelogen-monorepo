@@ -3,8 +3,7 @@
   "version": "independent",
   "npmClient": "pnpm",
   "packages": [
-    "packages/*",
-    "."
+    "packages/*"
   ],
   "command": {
     "version": {
