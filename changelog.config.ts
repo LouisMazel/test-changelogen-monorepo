@@ -25,7 +25,7 @@ export default defineConfig({
   hideAuthorEmail: false,
 
   monorepo: {
-    versionMode: 'selective',
+    versionMode: 'independent',
     packages: ['./packages/*'],
     filterCommits: true,
   },
