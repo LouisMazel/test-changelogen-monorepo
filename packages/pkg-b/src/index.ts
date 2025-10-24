@@ -1,3 +1,3 @@
 function test() {
-    console.log('test b test')
+    console.log('test b test ez,efion')
 }
