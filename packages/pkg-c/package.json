@@ -1,7 +1,7 @@
 {
   "name": "pkg-c",
   "type": "module",
-  "version": "0.3.9-alpha.0",
+  "version": "0.3.9",
   "description": "pkg-c",
   "author": "Louis Mazel <me@loicmazuel.com>",
   "license": "MIT",

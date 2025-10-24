@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.3.5...v0.4.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.3.5...v0.4.0)
+
+### 🚀 Features
+
+- Modify package b ([a95901d](https://github.com/LouisMazel/test-changelogen-monorepo/commit/a95901d))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+
 ## v0.3.5...v0.3.7-alpha.0
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.3.5...v0.3.7-alpha.0)
