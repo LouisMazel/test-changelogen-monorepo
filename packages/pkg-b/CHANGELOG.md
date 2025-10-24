@@ -1,5 +1,18 @@
 # Changelog
 
+## pkg-b@0.5.0...v0.6.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.5.0...v0.6.0)
+
+### 🚀 Features
+
+- Modify package B ([431d71f](https://github.com/LouisMazel/test-changelogen-monorepo/commit/431d71f))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+
 ## pkg-b@0.4.2...v0.5.0
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.4.2...v0.5.0)

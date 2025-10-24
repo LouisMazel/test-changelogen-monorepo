@@ -1,5 +1,18 @@
 # Changelog
 
+## pkg-c@0.3.12...v0.4.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.12...v0.4.0)
+
+### 🚀 Features
+
+- Modify package c ([89c1fc8](https://github.com/LouisMazel/test-changelogen-monorepo/commit/89c1fc8))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+
 ## pkg-c@0.3.11...v0.3.12
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.11...v0.3.12)
