@@ -1,3 +1,3 @@
 function test() {
-  console.log('package c break')
+  console.log('package c')
 }
