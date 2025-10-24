@@ -1,3 +1,3 @@
 function test() {
-    console.log('test b')
+    console.log('test b test')
 }
