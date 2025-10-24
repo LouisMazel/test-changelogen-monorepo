@@ -1,3 +1,3 @@
 export function test() {
-  console.log('pacakge TEST BLA')
+  console.log('pacakge TEST  DMD?')
 }
