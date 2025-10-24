@@ -1,5 +1,32 @@
 # Changelog
 
+## Multiple Packages Updated - 2025-10-24
+
+### pkg-a@0.5.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.4.0...v0.5.0)
+
+### 🚀 Features
+
+- Modify package A ([b2bc4bf](https://github.com/LouisMazel/test-changelogen-monorepo/commit/b2bc4bf))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+### pkg-b@0.4.1
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.4.0...v0.4.1)
+
+No relevant changes since last release
+
+### pkg-c@0.3.10
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.9-alpha.0...v0.3.10)
+
+No relevant changes since last release
+
+
 ## pkg-a@0.3.6-alpha.0...v0.3.5
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.3.6-alpha.0...v0.3.5)
