@@ -2,6 +2,27 @@
 
 ## Multiple Packages Updated - 2025-10-24
 
+### pkg-b@0.5.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.4.2...v0.5.0)
+
+### 🚀 Features
+
+- Modify package B ([29127a6](https://github.com/LouisMazel/test-changelogen-monorepo/commit/29127a6))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+### pkg-c@0.3.12
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.11...v0.3.12)
+
+No relevant changes since last release
+
+
+## Multiple Packages Updated - 2025-10-24
+
 ### pkg-a@0.6.0
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.5.0...v0.6.0)
