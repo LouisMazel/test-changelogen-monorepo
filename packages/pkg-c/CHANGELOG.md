@@ -1,5 +1,12 @@
 # Changelog
 
+## pkg-c@0.3.10...v0.3.11
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.10...v0.3.11)
+
+No relevant changes since last release
+
+
 ## pkg-c@0.3.9-alpha.0...v0.3.10
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-c@0.3.9-alpha.0...v0.3.10)

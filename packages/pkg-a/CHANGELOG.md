@@ -1,5 +1,18 @@
 # Changelog
 
+## pkg-a@0.5.0...v0.6.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.5.0...v0.6.0)
+
+### 🚀 Features
+
+- Modify package A ([cbec65c](https://github.com/LouisMazel/test-changelogen-monorepo/commit/cbec65c))
+
+### ❤️ Contributors
+
+- LouisMazel <me@loicmazuel.com>
+
+
 ## pkg-a@0.4.0...v0.5.0
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-a@0.4.0...v0.5.0)
