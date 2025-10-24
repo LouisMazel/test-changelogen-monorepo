@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.5...v0.3.7-alpha.0
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.3.5...v0.3.7-alpha.0)
+
+No relevant changes since last release
+
+
 ## v0.3.5...v0.3.6
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.3.5...v0.3.6)
