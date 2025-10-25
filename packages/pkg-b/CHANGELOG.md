@@ -1,5 +1,12 @@
 # Changelog
 
+## pkg-b@0.6.4...pkg-b@0.6.5
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.6.4...pkg-b@0.6.5)
+
+No relevant changes for this release
+
+
 ## pkg-b@0.6.3...pkg-b@0.6.4
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/pkg-b@0.6.3...pkg-b@0.6.4)
