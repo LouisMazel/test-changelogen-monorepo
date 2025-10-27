@@ -1,3 +1,3 @@
 function test() {
-  console.log('package dzdzdz')
+  console.log('package CCCC')
 }
