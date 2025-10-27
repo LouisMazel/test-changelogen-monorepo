@@ -17,7 +17,7 @@ export default defineConfig({
   },
 
   monorepo: {
-    versionMode: 'independent',
+    versionMode: 'selective',
     packages: ['./packages/*'],
   },
 
