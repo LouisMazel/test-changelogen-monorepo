@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.4.1-beta.2...v0.4.1-beta.3
+
+[compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.4.1-beta.2...v0.4.1-beta.3)
+
+No relevant changes for this release
+
+
 ## v0.4.1-beta.1...v0.4.1-beta.2
 
 [compare changes](https://github.com/LouisMazel/test-changelogen-monorepo/compare/v0.4.1-beta.1...v0.4.1-beta.2)
